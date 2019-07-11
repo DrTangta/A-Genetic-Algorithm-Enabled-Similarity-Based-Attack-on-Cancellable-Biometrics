@@ -12,6 +12,8 @@ More details in:
 
 Xingbo Dong,  Zhe Jin, Andrew Teoh Beng. A Genetic Algorithm Enabled Similarity-Based Attack on Cancellable Biometrics
 
+To be appear at 10th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS). 
+
 Please remember to reference article above on any work made public, whatever the form, based directly or indirectly on these metrics.
 
 
